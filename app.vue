@@ -6,6 +6,8 @@
   <NuxtPage></NuxtPage>
 </template>
 <script setup lang="ts">
+
+
 // SEO优化
 useSeoMeta({
   title:"哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
